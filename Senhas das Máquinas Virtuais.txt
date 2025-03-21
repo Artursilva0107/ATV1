@@ -1,0 +1,17 @@
+Kali Linux
+-----------
+
+usuário: aluno
+senha: etec211
+
+Windows Server
+---------------
+
+usuário: Administrador
+senha: Etec*211
+
+Metasploitable 2
+-----------------
+
+usuário: msfadmin
+senha: msfadmin
